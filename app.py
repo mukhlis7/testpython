@@ -6,5 +6,3 @@ app=Flask(__name__)
 def index():
   return "<h1>Hello You<h1>"
   
-if __name__=='__main__':
-app.run()
